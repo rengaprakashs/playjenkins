@@ -6,7 +6,7 @@ metadata:
     app: web
   name: mynginx
 spec:
-  replicas: 1
+  replicas: 7we
   selector:
     matchLabels:
       app: web
